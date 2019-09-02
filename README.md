@@ -1,5 +1,5 @@
 
-# FB-React
+# BOTFB
 
 git clone it <br>
 masuk direktori <br>
